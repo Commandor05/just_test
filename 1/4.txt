@@ -1,9 +1,5 @@
 Welcome
 13
 to 
-<<<<<<< HEAD
-new master
-=======
-new text edit
->>>>>>> text_edits
+new st add master
 world
